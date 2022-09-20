@@ -1,0 +1,29 @@
+Alice : Clover Radishes Violets Radishes 
+
+Bob : Grass Grass Clover Clover 
+
+Charlie : Violets Radishes Clover Grass 
+
+David : Clover Grass Clover Radishes 
+
+Eve : Radishes Violets Radishes Grass 
+
+Fred : Clover Grass Violets Clover 
+
+Ginny : Radishes Violets Grass Clover 
+
+Harriet : Grass Grass Radishes Violets 
+
+Ileana : Grass Violets Violets Clover 
+
+Joseph : Radishes Radishes Violets Grass 
+
+Kincaid : Grass Violets Clover Grass 
+
+Larry : Violets Violets Clover Violets 
+
+Allen : Violets Violets Clover Clover 
+
+Kim : Grass Grass Radishes Radishes 
+
+Lea : Violets Radishes Grass Clover 
