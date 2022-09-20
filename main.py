@@ -1,6 +1,3 @@
-
-              
-
 class Garden:
   STUDENTS = ['Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Fred', 'Ginny', 'Harriet', 'Ileana', 'Joseph', 'Kincaid', 'Larry']
   FLOWERS = {'C': 'Clover', 'R': 'Radishes', 'G': 'Grass', 'V': 'Violets'}
